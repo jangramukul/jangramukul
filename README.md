@@ -1,4 +1,4 @@
-## Blog
+## Personal Blog
 - [Gradle Build Process Guide](https://github.com/jangramukul/android-dev-knowledge-base/blob/main/blog/2018-01-24-gradle-build-process.md)
 - [What's the Main Purpose of DI?](https://github.com/jangramukul/android-dev-knowledge-base/blob/main/blog/2019-01-03-purpose-of-di.md)
 - [Introduction to Clean Architecture](https://github.com/jangramukul/android-dev-knowledge-base/blob/main/blog/2021-04-14-introduction-to-clean-architecture.md)
