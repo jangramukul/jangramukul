@@ -14,3 +14,5 @@
 - [Follow Right Architecture Patterns Naming](https://github.com/jangramukul/android-dev-knowledge-base/blob/main/blog/2024-09-23-architecture-pattern-naming.md)
 - [Jetpack Compose Best Practises Guide](https://github.com/jangramukul/android-dev-knowledge-base/blob/main/blog/2024-09-24-compose-best-practises.md)
 
+## Connect
+Mastodon: @mukuljangra
