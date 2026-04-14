@@ -1,13 +1,17 @@
 **👽 Connect**
 - [Mastodon: @mukuljangra](https://mastodon.social/@mukuljangra)
 
+---
+
 **📡 Contributions**
 - Pocket Casts: [Migrate LiveData To Coroutines Flow](https://github.com/Automattic/pocket-casts-android/pull/1651)
 - Pocket Casts: [Episode Artwork In Miniplayer, Notification & Widget](https://github.com/Automattic/pocket-casts-android/pull/1658)
 - LastKey: [Code](https://github.com/jangramukul/LastKey-Multiplatform)
 - Reactive Store: [Code](https://github.com/jangramukul/Reactive-Store)
 - FastMapper: [Code](https://github.com/jangramukul/fastmapper)
-  
+
+---
+ 
 **🛸 Blog**
 - [Compose Beyond The UI?](https://github.com/jangramukul/android-dev-knowledge-base/blob/main/blog/2025-10-14-compose-beyond-ui.md)
 - [How To Write Testable Code?](https://github.com/jangramukul/android-dev-knowledge-base/blob/main/blog/2024-10-22-writing-testable-code.md)
