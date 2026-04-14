@@ -7,7 +7,6 @@
 - [Modularization Basics Guide](https://github.com/jangramukul/android-dev-knowledge-base/blob/main/blog/2021-04-17-modularization-basics.md)
 - [How To Cache In Android?](https://github.com/jangramukul/android-dev-knowledge-base/blob/main/blog/2022-01-05-android-caching-guide.md)
 - [Kotlin Flows With Operators Guide](https://github.com/jangramukul/android-dev-knowledge-base/blob/main/blog/2023-02-08-master-kotlin-flows-with-operators.md)
-- [Essentialism By Greg McKeown — Book Summary](https://github.com/jangramukul/android-dev-knowledge-base/blob/main/blog/2024-05-09-book-summary-essentialism.md)
 - [How to Choose the Right Architecture?](https://github.com/jangramukul/android-dev-knowledge-base/blob/main/blog/2024-07-03-how-to-choose-architecture.md)
 - [Application Level Best Practises Guide](https://github.com/jangramukul/android-dev-knowledge-base/blob/main/blog/2024-09-21-application-level-best-practises.md)
 - [Kotlin Best Practises Guide](https://github.com/jangramukul/android-dev-knowledge-base/blob/main/blog/2024-09-22-kotlin-best-practises.md)
