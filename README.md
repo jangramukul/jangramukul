@@ -1,4 +1,3 @@
-@@ -0,0 +1,45 @@
 # Hi, I'm Mukul 👋
 
 Android Engineer who enjoys building clean, scalable, and well-tested apps. I write about Android architecture, Kotlin, and engineering best practices.
