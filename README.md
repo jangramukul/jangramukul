@@ -1,6 +1,6 @@
 Hi 👽
 
-**Blog**
+**🛸 Blog**
 - [Compose Beyond The UI?](https://github.com/jangramukul/android-dev-knowledge-base/blob/main/blog/2025-10-14-compose-beyond-ui.md)
 - [How To Write Testable Code?](https://github.com/jangramukul/android-dev-knowledge-base/blob/main/blog/2024-10-22-writing-testable-code.md)
 - [Mobile System Design Guide](https://github.com/jangramukul/android-dev-knowledge-base/blob/main/blog/2024-10-21-mobile-system-design.md)
@@ -16,9 +16,9 @@ Hi 👽
 - [Follow Right Architecture Patterns Naming](https://github.com/jangramukul/android-dev-knowledge-base/blob/main/blog/2024-09-23-architecture-pattern-naming.md)
 - [Jetpack Compose Best Practises Guide](https://github.com/jangramukul/android-dev-knowledge-base/blob/main/blog/2024-09-24-compose-best-practises.md)
 
-**Contributions**
+**📡 Contributions**
 - Pocket Casts: [Migrate LiveData To Coroutines Flow](https://github.com/Automattic/pocket-casts-android/pull/1651)
 - Pocket Casts: [Episode Artwork In Miniplayer, Notification & Widget](https://github.com/Automattic/pocket-casts-android/pull/1658)
 
-**Connect**
+**👽 Connect**
 - Mastodon: @mukuljangra
