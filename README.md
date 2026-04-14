@@ -19,4 +19,4 @@
 - Pocket Casts: [Episode Artwork In Miniplayer, Notification & Widget](https://github.com/Automattic/pocket-casts-android/pull/1658)
 
 **Connect**
-Mastodon: @mukuljangra
+- Mastodon: @mukuljangra
