@@ -1,5 +1,5 @@
 **👽 Connect**
-- [Mastodon: @mukuljangra](https://mastodon.social/@mukuljangra)
+- [Mastodon](https://mastodon.social/@mukuljangra)
 
 ---
 
