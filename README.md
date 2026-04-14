@@ -1,22 +1,4 @@
-# Hi, I'm Mukul 👋
-
-Android Engineer who enjoys building clean, scalable, and well-tested apps. I write about Android architecture, Kotlin, and engineering best practices.
-
----
-
-## 🛠 What I Work With
-
-- **Android** — Jetpack, Compose, Coroutines, Flows
-- **Architecture** — Clean Architecture, MVVM, Modularization
-- **Kotlin** — Coroutines, Flows, Design Patterns
-- **Testing** — Unit tests, testable code design
-
----
-
-## 📝 Personal Blog
-
-Engineering articles on Android development, architecture, and best practices.
-
+## Writing
 - [Gradle Build Process Guide](https://github.com/jangramukul/android-dev-knowledge-base/blob/main/blog/2018-01-24-gradle-build-process.md)
 - [What's the Main Purpose of DI?](https://github.com/jangramukul/android-dev-knowledge-base/blob/main/blog/2019-01-03-purpose-of-di.md)
 - [Introduction to Clean Architecture](https://github.com/jangramukul/android-dev-knowledge-base/blob/main/blog/2021-04-14-introduction-to-clean-architecture.md)
@@ -35,5 +17,3 @@ Engineering articles on Android development, architecture, and best practices.
 - [Mobile System Design Guide](https://github.com/jangramukul/android-dev-knowledge-base/blob/main/blog/2024-10-21-mobile-system-design.md)
 - [How To Write Testable Code?](https://github.com/jangramukul/android-dev-knowledge-base/blob/main/blog/2024-10-22-writing-testable-code.md)
 - [Compose Beyond The UI?](https://github.com/jangramukul/android-dev-knowledge-base/blob/main/blog/2025-10-14-compose-beyond-ui.md)
-
----
