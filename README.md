@@ -1,5 +1,5 @@
 **👽 Connect**
-- [Mastodon: @mukuljangra](https://mastodon.social/@mukuljangra)
+- [🐘 Mastodon: @mukuljangra](https://mastodon.social/@mukuljangra)
   
 **🛸 Blog**
 - [Compose Beyond The UI?](https://github.com/jangramukul/android-dev-knowledge-base/blob/main/blog/2025-10-14-compose-beyond-ui.md)
